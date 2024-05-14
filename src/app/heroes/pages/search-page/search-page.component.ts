@@ -10,7 +10,7 @@ import { MatAutocompleteSelectedEvent } from '@angular/material/autocomplete';
   styles: ``
 })
 export class SearchPageComponent {
-  public searchInput: FormControl = new FormControl();
+  public searchInput: FormControl = new FormControl('');
   public heroes: Hero[] = [];
   public selectedHero?: Hero;
 

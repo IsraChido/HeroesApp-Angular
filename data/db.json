@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://images7.alphacoders.com/904/thumb-1920-904934.jpg"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "RCnHjhX",
+      "superhero": "Israel",
+      "publisher": "Marvel Comics",
+      "alter_ego": "IsraChido",
+      "first_appearance": "2002",
+      "characters": "Israel",
+      "alt_img": "https://preview.redd.it/yum9ffrccx341.jpg?width=640&crop=smart&auto=webp&s=a03b7f902d65d5a48a4af0c2e5f6eef9206ec628"
     }
   ]
 }
